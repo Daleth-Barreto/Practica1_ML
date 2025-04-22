@@ -33,7 +33,3 @@ Este proyecto demuestra el potencial del Machine Learning para la predicción de
 * Explorar otros algoritmos de Machine Learning.
 * Ajustar los hiperparámetros del modelo para mejorar su rendimiento.
 * Implementar el modelo en una aplicación web o API.
-
-## Autor
-
-[Tu nombre]
